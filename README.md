@@ -9,7 +9,7 @@ Each data cleaning projects will include a simple linear/logistic regression or 
 
 ### Pain Pills
 
-Data is 80 GB in size so there is a challenge in storing it in memort. I partioned read the file but the computer was taking too long and much memory so this dataset will probably explored with Spark in the future.
+Data is 80 GB in size so there is a challenge in storing it in memory. I portion-read the file but the computer was taking too long and using much memory so this dataset will probably explored with Spark in the future.
 
 ### NYPD Motor Vehicle Collision
 
